@@ -2,7 +2,7 @@
 
 Hello! I'm Nahuel Martinez, a Computer Engineering student at the National University of Mar del Plata (UNMDP), and I'm also a Computer Technician. Currently, I'm seeking part-time job opportunities to complement my studies.
 
-![image](https://github.com/Nahuel1810/Nahuel1810/assets/62159080/cf3023d4-2a7c-44d0-8bd3-75e0d7a25350)
+![imagen](https://github.com/Nahuel1810/Nahuel1810/assets/62159080/e5d5994b-648a-453a-aad3-924c00aa21cf)
 
 ## Experience and Featured Projects
 
