@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahuel1810&label=Profile%20views&color=0e75b6&style=flat" alt="nahuel1810" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuel1810" alt="nahuel1810" /></a> </p>
-
 - I'm Nahuel Martinez, a Computer Engineering student at the National University of Mar del Plata (UNMDP), and I'm also a Computer Technician. Currently, I'm seeking part-time job opportunities to complement my studies 👨‍💻
 
 - I’m currently learning **about cybersecurity on Linux servers and testing tools** 🌱 
