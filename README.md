@@ -24,7 +24,12 @@
 <p><a href="https://www.buymeacoffee.com/nahuel1810"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nahuel1810" /></a></p><br><br><br>
 
 <p>If you're interested in collaborating on projects or have any job opportunities for me, feel free to contact me!</p>
-- LinkedIn: [Nahuel Martinez](https://www.linkedin.com/in/mrtz-nahuel/)
-- Email: mrtznahuel@gmail.com
+  
+ - Linkedin: <a href="https://www.linkedin.com/in/mrtz-nahuel/" rel="nofollow noreferrer">
+  Nahuel Martinez
+  </a>
+  
+   - Email: mrtznahuel@gmail.com
+
 
 Thanks for visiting my profile!
